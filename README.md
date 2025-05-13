@@ -2,8 +2,6 @@
 obstacle course game built with Unity. The player must navigate through moving obstacles to reach the finish line. Includes physics-based collisions, failure tracking, and responsive player control.
 
 
-A simple 3D obstacle course game built with Unity.
-
 The player (yellow cube) must reach the finish line while avoiding dynamic obstacles like spinners and rollers. The game includes basic physics interactions, movement logic, and a strike system – touching an obstacle turns the player red and adds a fail count.
 
 ## Features
